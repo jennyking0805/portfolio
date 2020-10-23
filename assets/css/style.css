@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 body {
@@ -46,5 +47,25 @@ header nav ul li a {
 
 section {
     padding: 60px;
-    background-image: url("assets/images/portfolio-background.jpg");
+}
+
+/* begin hero styles */
+
+.hero {
+    background-image: url("../images/portfolio-background.jpg");
+    background-size: cover;
+    width: stretch;
+    height: 250px;
+    position: relative;
+}
+
+.hero-heading {
+    background-color: #c0c0c0;
+    padding: 10px;
+    width: 150px;
+    color: #696969;
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    text-align: center;
 }

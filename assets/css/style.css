@@ -55,7 +55,7 @@ section {
     background-image: url("../images/portfolio-background.jpg");
     background-size: cover;
     width: stretch;
-    height: 250px;
+    height: 300px;
     position: relative;
 }
 
@@ -66,6 +66,12 @@ section {
     color: #696969;
     position: absolute;
     bottom: 10px;
-    right: 10px;
+    right: 55px;
     text-align: center;
+}
+
+.profile-pic {
+    bottom: 60px;
+    right: 40px;
+    position: absolute;
 }

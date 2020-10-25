@@ -1,7 +1,7 @@
 # Jenny King - Portfolio
 
 ## Purpose
-Portfolio designed reference my work.
+Portfolio designed to reference my work.
 
 ## Built with 
 * HTML

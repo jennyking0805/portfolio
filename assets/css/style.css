@@ -139,7 +139,7 @@ section {
 
 /* MEDIA QUERY FOR SMALLER DESKTOP SCREENS AND SMALLER */
 
-/* @media screen and (max-width: 980px) {
+@media screen and (max-width: 980px) {
     header {
         padding-bottom: 0;
         justify-content: center;
@@ -164,7 +164,7 @@ section {
     .section-title {
         width: 80%;
     }
-} */
+}
 
 /* MEDIA QUERY FOR TABLETS AND SMALLER */
 

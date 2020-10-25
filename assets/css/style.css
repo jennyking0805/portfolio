@@ -146,6 +146,10 @@ section {
         position: relative;
     }
 
+    header a{
+        text-align: right;
+    }
+
     header h1 {
         width: 100%;
         text-align: center;
@@ -161,28 +165,21 @@ section {
         font-size: 20px;
     }
 
-    .section-title {
-        width: 80%;
+    .contents {
+        justify-content: center;
     }
 }
 
 /* MEDIA QUERY FOR TABLETS AND SMALLER */
 
-/* @media screen and (max-width: 768px) {
+@media screen and (max-width: 768px) {
     section {
         padding-bottom: 30px 15px;
     }
-
-} */
+}
 
 /* MEDIA QUERY FOR MOBILE PHONES AND SMALLER */
 
-/* @media screen and (max-width: 575px) {
-    .hero-form button {
-        width: 100%;
-    }
-
-    .section-title {
-        width: 95%;
-    }
-} */
+@media screen and (max-width: 575px) {
+    
+}

@@ -117,7 +117,7 @@ section {
     height: 300px;
 }
 
-.run-buddy {
+/* .run-buddy {
     background-image: url("../images/run-buddy.jpg");
     display: block;
 }
@@ -125,7 +125,7 @@ section {
 .horeison {
     background-image: url("../images/Horeison.jpg");
     display: block;
-}
+} */
 
 .nested-2 p {
     display: inline-block;

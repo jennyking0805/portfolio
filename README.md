@@ -7,4 +7,5 @@ Portfolio designed reference my work.
 * HTML
 * CSS
 
-## Website
+## Jenny King - Portfolio
+[Portfolio](https://jennyking0805.github.io/portfolio)

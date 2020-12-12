@@ -106,16 +106,20 @@ section {
 
 .nested {
     display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-template-rows: auto;
-    grid-gap: 10px;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin: 10px 10px 0 10px;
 }
-.nested p {
-    padding-left: 30px;
-    padding-bottom: 40px;
+
+/* .nested p {
     margin: 0;
-    width: 80%;
+    width: auto;
     height: 300px;
+} */
+
+.nested img {
+    width: 300px;
+    height: 250px;
+    border-radius: 10px;
 }
 
 .nested-2 p {

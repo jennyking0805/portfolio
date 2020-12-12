@@ -10,4 +10,4 @@ Portfolio designed to reference my work.
 ## Jenny King - Portfolio
 [Portfolio](https://jennyking0805.github.io/portfolio)
 
-![](/assets/images/portfolio-website.png)
+
